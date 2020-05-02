@@ -1,4 +1,4 @@
-# list_personality_adjs
+# personality_adjs
 136 personality adjectives randomly selected from web.
 
 The adjectives have been randomly selected from these lists online:
